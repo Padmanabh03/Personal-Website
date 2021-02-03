@@ -1,2 +1,2 @@
 # Personal-Website
-The code is not responsive.(if you try to open it on mobile/tablet the site may differ)
+The code is only responsive on PC/laptop mode.
